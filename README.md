@@ -1,2 +1,2 @@
 # hello-world
-Orientation at github
+Orientation at github. I am learning how to commit.
